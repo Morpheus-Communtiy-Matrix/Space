@@ -2,8 +2,7 @@
 
 <div align = center>
 
-[![Join Link]](https://matrix.to/#/!dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?via=ipanema.chat&via=matrix.vulkanlan.at&via=matrix.terjokan.de&via=matrix.reddave.de&via=datoxi.de&via=frei.chat&via=nyaaa.de&via=palaven.net&via=matrix.tu-berlin.de&via=matrix.uni-hannover.de)   
-[***Join via Client***](matrix:roomid/dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?action=join&via=frei.chat&via=matrix.yiprawr.dev&via=matrix.vulkanlan.at&via=matrix.reeee.eu&via=socialnetwork24.com&via=matrix.eigenbaukombinat.de&via=matrix.manzilalnabat.de&via=skin-insanity.com&via=redskip.sbs&via=matrix.bitschieber.com)   
+[![Join Matrix]](https://matrix.to/#/#morpheus_community_matrix:matrix.org)   
 [![Matrixrooms Info]](https://matrixrooms.info/room/morpheus_community_matrix:matrix.org)   
 
 <br>
@@ -29,8 +28,7 @@ Alle Inhalte dieses Repos stehen unter CC-BY-NC 4.0 (Creative Commons Attributio
 
 
 
-[Join Link]: https://img.shields.io/badge/Join-Matrix?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0iaC00IHctNCBtbC0yIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiB2ZXJzaW9uPSIxLjEiIGlkPSJzdmcxIj4KICA8ZGVmcyBpZD0iZGVmczEiPjwvZGVmcz4KICA8cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTEwIDZINmEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAyIDJoMTBhMiAyIDAgMDAyLTJ2LTRNMTQgNGg2bTAgMHY2bTAtNkwxMCAxNCIgaWQ9InBhdGgxIj48L3BhdGg%2BCjwvc3ZnPgo%3D&logoSize=auto&labelColor=white&color=white
 
-[Join Matrix]: https://img.shields.io/badge/Join-Matrix?style=flat-square&logo=matrix&logoColor=%23ffffff&logoSize=auto&labelColor=%23e08500&color=%23e08500
+[Join Matrix]: https://img.shields.io/badge/Join-Matrix?style=for-the-badge&logo=matrix&logoColor=%23000&logoSize=auto&labelColor=%23fff&color=%23fff
 
-[Matrixrooms Info]: https://img.shields.io/badge/-info?style=flat-square&label=matrixrooms.info&labelColor=%231d293d&color=%2300000000
+[Matrixrooms Info]: https://img.shields.io/badge/-info?style=for-the-badge&label=matrixrooms.info&labelColor=%231d293d&color=%2300000000
