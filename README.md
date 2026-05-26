@@ -2,9 +2,9 @@
 
 <div align = center>
 
-[![Join Link]][matrix-to]   
-[![Join Matrix]][matrix]   
-[![Matrixrooms Info]][matrixrooms]   
+[![Join Link]](https://matrix.to/#/!dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?via=ipanema.chat&via=matrix.vulkanlan.at&via=matrix.terjokan.de&via=matrix.reddave.de&via=datoxi.de&via=frei.chat&via=nyaaa.de&via=palaven.net&via=matrix.tu-berlin.de&via=matrix.uni-hannover.de)   
+[![Join Matrix]](matrix:roomid/dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?action=join&via=frei.chat&via=matrix.yiprawr.dev&via=matrix.vulkanlan.at&via=matrix.reeee.eu&via=socialnetwork24.com&via=matrix.eigenbaukombinat.de&via=matrix.manzilalnabat.de&via=skin-insanity.com&via=redskip.sbs&via=matrix.bitschieber.com)   
+[![Matrixrooms Info]](https://matrixrooms.info/room/morpheus_community_matrix:matrix.org)   
 
 <br>
 
@@ -27,9 +27,7 @@ Wir verwenden folgende Bots in unserem Space:
 
 Alle Inhalte dieses Repos stehen unter CC-BY-NC 4.0 (Creative Commons Attribution-NonCommercial 4.0) siehe [LICENSE](LICENSE) und [creativecommons.org/licenses/by-nc/4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
-[matrix-to]: https://matrix.to/#/!dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?via=ipanema.chat&via=matrix.vulkanlan.at&via=matrix.terjokan.de&via=matrix.reddave.de&via=datoxi.de&via=frei.chat&via=nyaaa.de&via=palaven.net&via=matrix.tu-berlin.de&via=matrix.uni-hannover.de
-[matrix]: matrix:roomid/dEhdih-PF7uPLP5sw8NDYlqF8fSPvuW6BhGO6QqIggI?action=join&via=matrix.buecherwiesel.at&via=matrix.bur-tech.de&via=skysteel.highwindtech.de&via=matrix.cs-homelab.de&via=matrix.the-morpheus.xyz&via=nitr.dev&via=matrix.luxasiix.org&via=matrix.behle-tech.de&via=meericedes.de&via=nebendahl.eu
-[matrixrooms]: https://matrixrooms.info/room/morpheus_community_matrix:matrix.org
+
 
 [Join Link]: https://img.shields.io/badge/Join-Matrix?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8%2BCjxzdmcgeG1sbnM6aW5rc2NhcGU9Imh0dHA6Ly93d3cuaW5rc2NhcGUub3JnL25hbWVzcGFjZXMvaW5rc2NhcGUiIHhtbG5zOnNvZGlwb2RpPSJodHRwOi8vc29kaXBvZGkuc291cmNlZm9yZ2UubmV0L0RURC9zb2RpcG9kaS0wLmR0ZCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczpzdmc9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBjbGFzcz0iaC00IHctNCBtbC0yIiBmaWxsPSJub25lIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHN0cm9rZT0iY3VycmVudENvbG9yIiB2ZXJzaW9uPSIxLjEiIGlkPSJzdmcxIj4KICA8ZGVmcyBpZD0iZGVmczEiPjwvZGVmcz4KICA8cGF0aCBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMiIgZD0iTTEwIDZINmEyIDIgMCAwMC0yIDJ2MTBhMiAyIDAgMDAyIDJoMTBhMiAyIDAgMDAyLTJ2LTRNMTQgNGg2bTAgMHY2bTAtNkwxMCAxNCIgaWQ9InBhdGgxIj48L3BhdGg%2BCjwvc3ZnPgo%3D&logoSize=auto&labelColor=white&color=white
 
