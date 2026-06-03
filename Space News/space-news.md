@@ -42,3 +42,17 @@ Unsere Bots im Space haben nun alle eigene Icons in einem einheitlichen Design. 
 * @draupnir_d51aec40-d16c-444e-95ca-211f85fb2f28:asgard.chat
 * @podcast.rss:mikaff.de
 * @youtube.rss:mikaff.de
+
+---
+
+# Space News *05-06-26*
+**Current Members: `1788`**
+## @rss.youtube:mikaff.de Config in [#Morpheus Content](https://matrix.to/#/#morpheus-content-announcements:mikaff.de)
+Der @rss.youtube:mikaff.de Bot hat eine neue Config bekommen. Es werden nun Videos, Shorts und Live Streams unterschieden und es kommt eine Passende Nachricht vom @rss.youtube:mikaff.de Bot.
+## [#Media]() Room
+in [#Media]() könnte ihr Medien, wie Bilder, Memes, Videos und Musik Teilen.
+## [#Hardware]() Subspace
+Es gibt jetzt einen [#Hardware]() Subspace, mit folgenden Räumen
+* [**Computer Hardware**]() für alles rund um die Physischen teile von Computern
+* [**3D Druck**]() für alles rund um 3D–Druck, 3D–Design, etc..
+* [**Microcontroller**]() für alles rund um Microcontroller und deren Benutzung.
