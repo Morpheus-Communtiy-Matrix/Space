@@ -56,3 +56,20 @@ Es gibt jetzt einen [#Hardware](https://matrix.to/#/#morpheus-hardware:mikaff.de
 * [**Computer Hardware**](https://matrix.to/#/#morpheus-computer-hardware:mikaff.de) für alles rund um die Physischen teile von Computern
 * [**3D Druck**](https://matrix.to/#/#morpheus-3d-druck:mikaff.de) für alles rund um 3D–Druck, 3D–Design, etc..
 * [**Microcontroller und E-Technik**](https://matrix.to/#/#morpheus-microcontroller-und-e-technik:mikaff.de) für alles rund um Microcontroller und deren Benutzung und rund um Elektrotechnik.
+
+---
+
+# Space News *26-06-26*
+**Current Members: `1794`**
+## Peertube Bot in [#Morpheus Content](https://matrix.to/#/#morpheus-content-announcements:matrix.org)
+Um in [#Morpheus Content](https://matrix.to/#/#morpheus-content-announcements:matrix.org) auch Announcements von [Morpheus Peertube](https://tube.the-morpheus.de) zu bekommen gibt es den @peertube.rss:mikaff.de Bot. Dieser hat die beiden Kanäle auf [Morpheus Peertube](https://tube.the-morpheus.de) Aboniert und schickt bei neuen Videos eine Nachricht als Announcement.
+## [#Voice](https://matrix.to/#/#morpheus-voice:matrix.org) Room 
+In dem [#General](https://matrix.to/#/#morpheus-general:matrix.org) Space gibt es nun einen [#Voice](https://matrix.to/#/#morpheus-voice:matrix.org) Room. Dort könnt ihr einen Call mit anderen Users des Spaces machen. 
+*Voice Rooms und Calls werden nicht von allen Clients Unterstützt*
+## Room Settings
+Von allen Räumen wurden die Room Settings überarbeitet. Jeder Raum hat/ist nun:
+* einen Canonical Allias
+* das Morpheus Logo als Raum Avatar
+  * *In Zukunft wollen wir noch Raum eigene Avatars machen, damit die Räume besser Unterscheidbar sind.*
+* vom Root Space aus sichtbar, ohne den Subspaces beitreten zu müssen.
+* Parrent Space im Room Topic Stehen
